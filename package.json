@@ -1,0 +1,17 @@
+{
+  "name": "pusha-rguard",
+  "version": "0.0.1",
+  "description": "pusha RGuard Bot",
+  "main": "pusha.js",
+  "scripts": {
+    "test": "node pusha.js"
+  },
+  "author": "Pusha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.27.0",
+    "mongoose": "^5.13.8"
+  },
+  "keywords": []
+}
